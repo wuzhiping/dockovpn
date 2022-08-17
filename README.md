@@ -7,3 +7,5 @@ docker run -it --rm --cap-add=NET_ADMIN \
 -e HOST_ADDR=$(curl -s https://api.ipify.org) \
 --name dockovpn alekslitvinenk/openvpn
 </pre>
+
+<img src="client.png"/>
